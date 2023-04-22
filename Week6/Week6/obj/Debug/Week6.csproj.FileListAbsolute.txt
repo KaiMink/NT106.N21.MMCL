@@ -1,0 +1,13 @@
+D:\NĂM HAI\LTM\TRÊN LỚP\LTM\Week6\Week6\bin\Debug\Week6.exe.config
+D:\NĂM HAI\LTM\TRÊN LỚP\LTM\Week6\Week6\bin\Debug\Week6.exe
+D:\NĂM HAI\LTM\TRÊN LỚP\LTM\Week6\Week6\bin\Debug\Week6.pdb
+D:\NĂM HAI\LTM\TRÊN LỚP\LTM\Week6\Week6\bin\Debug\Newtonsoft.Json.dll
+D:\NĂM HAI\LTM\TRÊN LỚP\LTM\Week6\Week6\bin\Debug\Newtonsoft.Json.xml
+D:\NĂM HAI\LTM\TRÊN LỚP\LTM\Week6\Week6\obj\Debug\Week6.csproj.AssemblyReference.cache
+D:\NĂM HAI\LTM\TRÊN LỚP\LTM\Week6\Week6\obj\Debug\Week6.Form1.resources
+D:\NĂM HAI\LTM\TRÊN LỚP\LTM\Week6\Week6\obj\Debug\Week6.Properties.Resources.resources
+D:\NĂM HAI\LTM\TRÊN LỚP\LTM\Week6\Week6\obj\Debug\Week6.csproj.GenerateResource.cache
+D:\NĂM HAI\LTM\TRÊN LỚP\LTM\Week6\Week6\obj\Debug\Week6.csproj.CoreCompileInputs.cache
+D:\NĂM HAI\LTM\TRÊN LỚP\LTM\Week6\Week6\obj\Debug\Week6.csproj.CopyComplete
+D:\NĂM HAI\LTM\TRÊN LỚP\LTM\Week6\Week6\obj\Debug\Week6.exe
+D:\NĂM HAI\LTM\TRÊN LỚP\LTM\Week6\Week6\obj\Debug\Week6.pdb
